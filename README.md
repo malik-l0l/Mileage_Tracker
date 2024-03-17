@@ -16,7 +16,7 @@ To run the project in your local environment,Python must be installed on your sy
 3. Run `cd Mileage_Tracker` to get into the project directory.
 4. Run `py mileage_tracker.py` in terminal or click on run `▶️` button to get the project started.
 
-## How to Use
+## 🕹️ How to Use
 
 1.✅ Enter the car's mileage, petrol price, money given, and litres shown into their respective input fields.
 2.↩️ Click the "Enter" button to calculate the results.
@@ -32,7 +32,7 @@ To run the project in your local environment,Python must be installed on your sy
 - 🎨 Intuitive GUI layout for easy interaction.
 - 🧭 The program includes error handling to manage invalid inputs and ensure smooth operation.If invalid inputs are detected, appropriate error messages are displayed to guide the user.
 
-## Functionality
+## 🔩 Functionality
 
 - **Input Fields :**
 
